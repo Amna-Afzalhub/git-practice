@@ -1,2 +1,0 @@
-this is first file of folder three
-add another text to the file one
