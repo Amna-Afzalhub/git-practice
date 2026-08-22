@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amna-afzalhub.github.io/git-practice/sitemap.xml
